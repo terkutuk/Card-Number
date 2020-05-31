@@ -23,7 +23,7 @@ Team    : Pakde Crew Script
 Code    : PHP
 Version : 8.9.8.0
 Note: 
-JANGAN PERCAYA KEPADA SIAPAPUN.!! \n";
+JANGAN PERCAYA KEPADA SIAPAPUN.!! Termasuk Gay!!! \n";
 echo $bold . $green . "DMYH    : $date\n";
 echo $blue . "==================================\n";
 echo $bold . $red . "Count      : ";
